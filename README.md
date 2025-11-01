@@ -1,4 +1,4 @@
-[<img src="./static/hello.png">](https://www.liushen.fun)
+[<img src="./static/hello.png">](https://www.520690.xyz)
 
 <h1 align="center">&nbsp&nbsp&nbsp&nbsp&nbsp𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <img src="./static/image.gif" width="30px" alt=""><br>
 
