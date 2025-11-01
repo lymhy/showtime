@@ -5,7 +5,7 @@
 <a href="https://www.520690.xyz/">
   <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
 </a>
-  <a href="mailto:xx@xx.com">
+  <a href="mailto:mster@520690.xyz">
   <img align="center" alt="lymhy的邮箱" width="22px" src="./static/icon/email.svg" />
 </a>
 <a href="https://www.520690.xyz/">
@@ -26,7 +26,7 @@
 
 ## 👋 欢迎来到我的 GitHub 主页!
 ### 🤗我是lymhy，一名对生活与技术充满热情的学者，热衷于探索新兴技术，构建有趣的项目，并通过开源与社区分享知识。      
-📫 联系方式: lymhy@xx.com    
+📫 联系方式: mster@520690.xyz    
 🔗 个人网站/博客: www.520690.xyz        
 ### 🚀 关于我
 🔭 目前在研究/开发     
